@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sofia
 
-<!--
-**Sofia-Sanabria/Sofia-Sanabria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile Developer from Paraguay, focused on React Native, TypeScript and cross-platform mobile development.
 
-Here are some ideas to get you started:
+I work on mobile applications, API integrations, UI implementation, debugging, code analysis and improvements for iOS and Android environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently interested in remote freelance opportunities related to:
+
+- Mobile Development
+- React Native / TypeScript
+- AI Coding Evaluation
+- AI-assisted Development
+- Technical Code Review
+- Web Development
+
+## Tech Stack
+
+**Mobile:** React Native, TypeScript, JavaScript, iOS, Android, Swift, Kotlin  
+**Web:** HTML, CSS/SASS, JavaScript, PHP, MySQL, React.js, Node.js, Next.js  
+**Tools:** Git, GitHub, Jira, Figma, Android Studio, Xcode, VS Code  
+**AI Tools:** Codex, Claude Code, AI-assisted debugging, code review and prompt evaluation  
+
+## Currently learning
+
+- Claude Code for AI-assisted application development
+- Advanced React Native CLI
+- English - Intermediate 2 at CCPA
+
+## Links
+
+- LinkedIn: linkedin.com/in/sofia-sanabria-estig
+- Email: smse2003@gmail.com
