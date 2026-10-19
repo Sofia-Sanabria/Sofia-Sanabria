@@ -1,4 +1,4 @@
-# Hola, soy Sofia 👋
+# Hola, soy Sofia
 
 Desarrolladora móvil y estudiante de Ingeniería Informática. Trabajo con React Native, TypeScript y JavaScript en aplicaciones para iOS y Android.
 
