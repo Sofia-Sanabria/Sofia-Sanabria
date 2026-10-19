@@ -1,19 +1,16 @@
 # Hola, soy Sofia 👋
 
-Desarrolladora móvil de Paraguay y estudiante de Ingeniería Informática. Trabajo con React Native, TypeScript y JavaScript en aplicaciones para iOS y Android.
+Desarrolladora móvil y estudiante de Ingeniería Informática. Trabajo con React Native, TypeScript y JavaScript en aplicaciones para iOS y Android.
 
 En ROSHKA desarrollo aplicaciones bancarias de BNA: implemento interfaces y componentes reutilizables, integro API REST y resuelvo errores funcionales y visuales. También realizo mejoras de seguridad, reviso hallazgos con MobSF y preparo y publico actualizaciones en Google Play y App Store.
 
 ## Mi experiencia
 
 - Desarrollo y mantenimiento de aplicaciones con React Native.
-- Implementación de interfaces y componentes reutilizables.
 - Integración de API REST y validación de flujos de usuario.
 - Análisis de código y depuración en Android e iOS.
 - Correcciones de seguridad y revisión de reportes MobSF.
 - Generación, versionado y publicación de aplicaciones móviles.
-
-Utilizo Codex y Claude Code como apoyo para analizar código, depurar problemas y elaborar documentación técnica.
 
 ## Tecnologías y herramientas
 
@@ -26,7 +23,6 @@ Utilizo Codex y Claude Code como apoyo para analizar código, depurar problemas 
 ## Actualmente aprendiendo
 
 - Desarrollo avanzado con React Native.
-- Seguridad y distribución de aplicaciones móviles.
 - Inglés — Intermedio superior 2 en CCPA.
 
 ## Oportunidades
